@@ -102,6 +102,11 @@ Developed to demonstrate:
 - Ability to iterate based on empirical results
 
 Intended for educational purposes and internship portfolio demonstration (JPMC Summer Analyst application).
+## Author
+
+**Snow**  
+VNIT Nagpur  
+snowj3327@gmail.com
 
 ## Disclaimer
 
